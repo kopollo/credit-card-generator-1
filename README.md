@@ -36,4 +36,4 @@ LICENSE
 GNU GPL
 https://gnu.org/licenses/gpl.html
 
-Project forked from https://github.com/grahamking/darkcoding-credit-card
+Project forked from https://git.io/JLQfx
